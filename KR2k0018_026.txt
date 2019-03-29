@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 寶慶四明志
-#+DATE: 2019-03-29 20:51:57.036490
+#+DATE: 2019-03-29 20:51:57.341643
 #+PROPERTY: ID KR2k0018
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 26
 <pb:KR2k0018_WYG_026-1a>¶
 　　欽定四庫全書¶
@@ -17,7 +17,7 @@
 　　夜飛山永平寨¶
 ¶
 　　介明粤之間有山曰夜飛東距慈溪西接餘姚舟行之¶
-衝也大江&KR0637;分一支繇慈溪至丈亭四十五里江面狹¶
+衝也大江派分一支繇慈溪至丈亭四十五里江面狹¶
 而居民稠丈亭十五里而蜀山又五里而夜飛山又十¶
 <pb:KR2k0018_WYG_026-1b>¶
 里而咸池則間無聚落蒲葦之儔於焉出没輔以逋藪¶

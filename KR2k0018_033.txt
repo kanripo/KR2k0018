@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 寶慶四明志
-#+DATE: 2019-03-29 20:51:57.083412
+#+DATE: 2019-03-29 20:51:57.385977
 #+PROPERTY: ID KR2k0018
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 33
 <pb:KR2k0018_WYG_033-1a>¶
 　　欽定四庫全書¶
@@ -240,7 +240,7 @@
 ¶
 　　同前¶
 ¶
-　　夜來雲氣浮帶得香烟濕萬&KR0284;本無情一一秋聲入¶
+　　夜來雲氣浮帶得香烟濕萬籟本無情一一秋聲入¶
 <pb:KR2k0018_WYG_033-10a>¶
 須臾離合間應笑兒曹泣新雨漲鄞江明日桅檣立¶
 ¶
